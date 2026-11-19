@@ -18,6 +18,10 @@ yarn-error.log
 /.idea
 /.vscode
 /storage/framework/*
+!/storage/framework/cache/
+!/storage/framework/sessions/
+!/storage/framework/testing/
+!/storage/framework/views/
 !/storage/framework/.gitignore
 
 /storage/logs/*
